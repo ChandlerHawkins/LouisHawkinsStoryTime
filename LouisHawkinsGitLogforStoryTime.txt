@@ -1,0 +1,24 @@
+# Louis Hawkins GitLog for Storytime
+
+
+My Story time 
+
+## part 1
+
+C:\Users\icema\Desktop\LouisHawkinsStoryTime>git log
+commit de836e570f11a68193b1ac9bd74f0ab9d2dc9fe8 (HEAD -> master, origin/master)
+Author: Chandler Hawkins <hawkinslc@student.swosu.edu>
+Date:   Wed Sep 6 23:21:21 2017 -0500
+
+    added a story to get started.
+
+commit a3646dc1d6ec3241db007b964fa3c143303d6127
+Author: Chandler Hawkins <hawkinslc@student.swosu.edu>
+Date:   Wed Sep 6 23:12:41 2017 -0500
+
+    first commit
+
+C:\Users\icema\Desktop\LouisHawkinsStoryTime>
+
+
+## Part 2
